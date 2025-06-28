@@ -8,8 +8,11 @@ It is built using Flask for the backend and a Random Forest Classifier trained o
 ## Features
 
 1.Real-time liver disease prediction
+
 2.Clean and responsive HTML/CSS UI
+
 3.Input includes medical history & lifestyle habits
+
 4.Powered by a trained Random Forest model
 
 
@@ -42,7 +45,9 @@ joblib
 ## 📁 Project Structure
 
 📦 Liver Ml/
+
 Projectexecutable files/
+
 ├── static/                 # style sheerts and images
 
 ├── templates/              # index.html (user form) page.html (Home page)
@@ -76,18 +81,25 @@ Run the Flask app using python app.py
 
 
 ## 👨‍💻 Author
+
 Venkat Ungarala
+
 B.Tech CSE Student
+
 Passionate about AI and Full-Stack Development
 
 
 ---
  ## 📄 License
+ 
 This project is open source and free to use.
 
 ## 💬 Feedback
+
 Found a bug or have suggestions to improve?
+
 Feel free to open an issue or submit a pull request!
+
 
 ## Made with ❤️ using Python, Flask, and Machine Learning
 
