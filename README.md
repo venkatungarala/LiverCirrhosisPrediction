@@ -40,15 +40,25 @@ joblib
 ---
 
 ## 📁 Project Structure
-📦 liver-cirrhosis-prediction/
+
+📦 Liver Ml/
+Projectexecutable files/
 ├── static/                 # style sheerts and images
+
 ├── templates/              # index.html (user form) page.html (Home page)
+
 ├── app.py                  # Flask backend logic
+
 ├── requirements.txt        # Required Python packages
+
 |__ cleaned_data.csv
+
 |__ HealthCareData.xlsx     # Original DataSet
+
 |__ liver_cirrhosis.ipynb   # Training Model
+
 |__ liver_prediction.pkl    # Trained Model
+
 |__ model_eval.csv
 
 ---
